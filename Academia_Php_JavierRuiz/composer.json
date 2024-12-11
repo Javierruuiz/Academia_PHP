@@ -1,0 +1,23 @@
+{
+  "name": "Javier/academia",
+  "description": "Academia",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Danie\\Academia\\": "src/",
+      "Controllers\\":"./Controllers",
+      "Models\\":"./Models",
+      "Lib\\":"./Lib",
+      "Utils\\":"./Utils"
+    }
+  },
+  "authors": [
+    {
+      "name": "Javier Ruiz"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "dompdf/dompdf": "^2.0"
+  }
+}

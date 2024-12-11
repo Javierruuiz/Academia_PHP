@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/./Controllers" isTestSource="false" packagePrefix="Controllers\" />
+      <sourceFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/./Lib" isTestSource="false" packagePrefix="Lib\" />
+      <sourceFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/./Models" isTestSource="false" packagePrefix="Models\" />
+      <sourceFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/./Utils" isTestSource="false" packagePrefix="Utils\" />
+      <sourceFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/src" isTestSource="false" packagePrefix="Danie\Academia\" />
+      <excludeFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Academia_Php_JavierRuiz/vendor/sabberworm/php-css-parser" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
